@@ -1,0 +1,9 @@
+{
+  "name": "Devto en español - Extension",
+  "version": "1.0",
+  "description": "Build an Extension with Angular",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html"
+  }
+}
